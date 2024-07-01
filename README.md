@@ -4,8 +4,8 @@
 
 [Video Tutorial on Youtube](https://youtu.be/Z_AWfuJXXCI)
 
--   🌟 Learn React + Tailwind + EDAMAM API
--   🎃 Build Responsive Design
+-   🌟 Build using React + Tailwind + EDAMAM API
+-   🎃 Responsive Design
 -   🚀 Deploy for FREE!
 
 # Run Locally
@@ -28,5 +28,3 @@ npm install
 ```shell
 npm run dev
 ```
-
-### Like and Subscribe:)
