@@ -4,6 +4,8 @@
 
 ## To do:
 Build same app using:
-1. SASS
-2. ✅ Tailwind CSS
-3. Chakra UI
+1. ✅ JS + Tailwind CSS
+2. Typescript
+3. TS + SASS
+4. TS + Tailwind CSS
+5. TS + Chakra UI
